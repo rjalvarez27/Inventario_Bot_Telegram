@@ -1,8 +1,8 @@
-TELEGRAM_TOKEN = "7563284744:AAHRbF7OkcC7kP541deb16SrtovNaFdsqlg"
-TELEGRAM_CHAT_ID = 6599267329
+TELEGRAM_TOKEN = ""
+TELEGRAM_CHAT_ID = ""
 SCOPES = ['https://www.googleapis.com/auth/spreadsheets']
 KEY = 'Key.json'
-SPREADSHEET_ID = '1rkL0zazDyGZVNL3_Gg17WtQ_XsrmG6uDAwzoGiBIFhQ' # id de la hoja de calculo
+SPREADSHEET_ID = '' # id de la hoja de calculo
 
 # TELEGRAM_TOKEN, TELEGRAM_CHAT_ID son las variables de Telegran 
 # SCOPES son los permisos de google api 
