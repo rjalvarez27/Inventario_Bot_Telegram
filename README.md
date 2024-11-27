@@ -83,6 +83,12 @@ Modulo 5 Metodos
    
 a) buscar en nota.
 
+✅ Interfaz
+
+![Screenshot 2024-11-27 180331](https://github.com/user-attachments/assets/f351cbf7-08ae-47f6-8a60-61dd0abef148)
+
+
+
 nota: https://pickled-boater-07d.notion.site/Documentaci-n-de-Curso-Gratuito-de-Sistema-de-Gesti-n-Python-y-Telegram-1158c0d98b1d80d4965dcc60a322e1b0#1228c0d98b1d80fea81beb4e0708e52b
   
   
